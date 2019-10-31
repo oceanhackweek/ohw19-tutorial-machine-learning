@@ -1,2 +1,4 @@
 anaconda
 keras
+matplotlib
+seaborn
