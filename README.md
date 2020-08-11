@@ -11,6 +11,12 @@ Topics:
 
 Access the tutorial by clicking on the Binder link above.
 
-[Video Recording](https://www.youtube.com/watch?v=Fzd9m18ZrpU&t=19s)(Skip to 26:15 for Python Notebooks)
+[Video Recording](https://www.youtube.com/watch?v=Fzd9m18ZrpU&t=19s) (skip to 26:15 for Python Notebooks)
+
+To run locally clone the repo and install all required packages through:
+
+```
+   conda install --yes --file requirements.txt
+```
 
 
